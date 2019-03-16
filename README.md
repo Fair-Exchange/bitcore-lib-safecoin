@@ -93,4 +93,8 @@ or create a test coverage report (you can open `coverage/lcov-report/index.html`
 
 Code released under [the MIT license](https://github.com/bitpay/bitcore-lib/blob/master/LICENSE).
 
+Copyright (c) 2018-2019 Safecoin. Safecoin is the registered trademark of Jeffrey Galloway.
+
 Copyright 2013-2015 BitPay, Inc. Bitcore is a trademark maintained by BitPay, Inc.
+
+
