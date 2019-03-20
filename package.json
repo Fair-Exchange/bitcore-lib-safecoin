@@ -1,8 +1,8 @@
 {
   "name": "bitcore-lib-safecoin",
-  "version": "0.15.19",
+  "version": "0.16.0",
   "description": "A pure and powerful JavaScript Safecoin library.",
-  "author": "BitPay <dev@bitpay.com>",
+  "author": "BitPay <dev@bitpay.com> Safecoin mod: Safecoin Team",
   "main": "index.js",
   "scripts": {
     "lint": "gulp lint",
@@ -60,19 +60,29 @@
       "email": "jack@z.cash"
     },
     {
+      "github": "LitecoinZ",
+      "community": "LitecoinZ"
+    },
+    {
       "name": "Jeffrey Galloway",
-      "email": "safecoin@safecoin.org"
+      "github": "Fair-Exchange",
+      "email": "safecoin@safecoin.org",
+      "community": "Safecoin"
+    },
+    {
+      "github": "OleksandrBlack",
+      "community": "Safecoin"
     },
     {
       "name": "Alexandr Shatovsky",
-      "email": "eternity@safecoin.org"
-    },
-    {
-      "name": "@OleksandrBlack"
+      "github": "EternityTula",
+      "email": "eternity@safecoin.org",
+      "community": "Safecoin"
     }
   ],
   "keywords": [
-    "safecoin",
+    "bitcoin",
+    "safebitcoin",
     "transaction",
     "address",
     "p2p",
@@ -89,7 +99,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:Fair-Exchange/bitcore-lib-safecoin.git"
+    "url": "https://github.com/Fair-Exchange/bitcore-lib-safecoin.git"
   },
   "browser": {
     "request": "browser-request"
@@ -100,15 +110,15 @@
     "buffer-compare": "=1.1.1",
     "elliptic": "=6.4.0",
     "inherits": "=2.0.1",
-    "lodash": "=4.17.4",
+    "lodash": "=4.17.11",
     "blake2b": "git+https://github.com/BitGo/blake2b.git#6268e6dd678661e0acc4359e9171b97eb1ebf8ac"
   },
   "devDependencies": {
     "bitcore-build-safecoin": "git+ssh://git@github.com:Fair-Exchange/bitcore-build-safecoin",
-    "brfs": "^1.2.0",
-    "chai": "^1.10.0",
-    "gulp": "^3.8.10",
-    "sinon": "^1.13.0"
+    "brfs": "^2.0.1",
+    "chai": "^4.2.0",
+    "gulp": "^4.0.0",
+    "sinon": "^7.1.1"
   },
   "license": "MIT"
 }
