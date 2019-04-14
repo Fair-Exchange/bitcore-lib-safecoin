@@ -110,7 +110,7 @@
     "buffer-compare": "=1.1.1",
     "elliptic": "=6.4.0",
     "inherits": "=2.0.1",
-    "lodash": "=4.17.4",
+    "lodash": "=4.17.11",
     "blake2b": "git+https://github.com/BitGo/blake2b.git#6268e6dd678661e0acc4359e9171b97eb1ebf8ac"
   },
   "devDependencies": {
