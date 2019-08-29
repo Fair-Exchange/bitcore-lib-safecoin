@@ -116,7 +116,7 @@
   "deprecated": false,
   "description": "A pure and powerful JavaScript Bitcoin library.",
   "devDependencies": {
-    "bitcore-build-safecoin": "git+ssh://git@github.com:Fair-Exchange/bitcore-build-safecoin",
+    "bitcore-build-safecoin": "git+https://github.com/Fair-Exchange/bitcore-build-safecoin",
     "brfs": "^2.0.1",
     "chai": "^4.2.0",
     "gulp": "^4.0.0",
